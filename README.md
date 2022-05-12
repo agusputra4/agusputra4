@@ -1,4 +1,16 @@
+<img align='right' src = "https://github.com/agusputra4/github-stats-transparent/blob/output/generated/overview.svg">
+
 # Hi, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I'm Agus.
+
+<p align="justify">
+  I am a freelance Data Analyst and currently pursuing my Master of Statistics degree at University of Brawijaya. I love to code with R, Python and SQL.Interested in devising a better problem‑solving method for challenging tasks. I'm currently learning Cloud Technology, especially with AWS.
+</p>
+
+<!-- ## 👁‍🗨 Visitors Count -->
+
+![Visitor Count](https://profile-counter.glitch.me/{agusputra4}/count.svg)
+
+<img align='right' src = "https://github.com/agusputra4/github-stats-transparent/blob/output/generated/languages.svg">
 
 ## 🔍 You Can Find Me at
 
@@ -12,18 +24,3 @@
 <!--   <a href="https://twitter.com/my_arist" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>   -->
 <!--  <a href="https://wa.me/" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>  -->
 </p>
-
-<!--
-**agusputra4/agusputra4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
