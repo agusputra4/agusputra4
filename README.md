@@ -1,4 +1,4 @@
-<!--<img align='right' src = "https://github.com/agusputra4/github-stats-transparent/blob/output/generated/overview.svg">-->
+<img align='right' src = "https://github.com/agusputra4/github-stats/blob/master/generated/overview.svg">
 
 # Hi, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> my name is Agus.
 
@@ -10,7 +10,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{agusputra4}/count.svg)
 
-<img align='right' src = "https://github.com/agusputra4/github-stats-transparent/blob/output/generated/languages.svg">
+<img align='right' src = "https://github.com/agusputra4/github-stats/blob/master/generated/languages.svg">
 
 ## 🔍 Connect with Me via
 
