@@ -3,7 +3,7 @@
 # Hi, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> my name is Agus.
 
 <p align="justify">
-  I am a freelance Data Analyst and currently pursuing my Master of Statistics degree at University of Brawijaya. I love to code with R, Python and SQL. Interested in devising a better problem‑solving method for challenging tasks and I'm currently learning Cloud Technology, especially with AWS.
+  I am a freelance Data Analyst and currently pursuing my Master of Statistics degree at University of Brawijaya. I love to code with R, Python and SQL. Interested in devising a better problem‑solving method for challenging tasks and I'm currently learning Google Data Analytics Professional Certificate.
 </p>
 
 <!-- ## 👁‍🗨 Visitors Count -->
